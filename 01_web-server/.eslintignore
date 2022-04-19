@@ -1,0 +1,7 @@
+build/* 
+!build/index.js 
+dist/* 
+bundle.js 
+.*/* 
+.*
+node_modules
